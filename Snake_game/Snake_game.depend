@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1720093192 source:c:\users\pc\documents\workspace\c++\snake_game\src\food.cpp
+	"Food.h"
+
+1720093186 c:\users\pc\documents\workspace\c++\snake_game\include\food.h
+
+1720498753 source:c:\users\pc\documents\workspace\c++\snake_game\main.cpp
+	<iostream>
+	<cstring>
+	<raylib.h>
+	<deque>
+	<raymath.h>
+
