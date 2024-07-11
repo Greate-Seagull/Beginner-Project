@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1720669847 source:c:\users\pc\documents\workspace\c++\copy_particle_game\main.cpp
+	<iostream>
+	<Particle.h>
+
+1720669968 c:\users\pc\documents\workspace\c++\copy_particle_game\include\particle.h
+	<raylib.h>
+	<iostream>
+	<cmath>
+
+1720669756 source:c:\users\pc\documents\workspace\c++\copy_particle_game\src\particle.cpp
+	"Particle.h"
+
