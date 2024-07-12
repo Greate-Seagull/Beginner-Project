@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720695119 source:c:\users\pc\documents\workspace\c++\falling_sand\main.cpp
+	<iostream>
+	<raylib.h>
+	<vector>
+
